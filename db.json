@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "Name": "abhi",
+      "Email": "abhi@gmail.com",
+      "Phone": "4455887755",
+      "id": 1674118060705,
+      "fav": false
+    },
+    {
+      "Name": "sreenath",
+      "Email": "heysreenath@gmail.com",
+      "Phone": "9961518648",
+      "id": 1674118390178,
+      "fav": true
+    },
+    {
+      "Name": "soman",
+      "Email": "soman@gmail.com",
+      "Phone": "1122556688",
+      "id": 1674121230618,
+      "fav": false
+    }
+  ]
+}
