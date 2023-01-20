@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contactbook/static/css/main.44f8b8b5.css",
+    "main.js": "/contactbook/static/js/main.5e44f22e.js",
+    "static/js/787.97270632.chunk.js": "/contactbook/static/js/787.97270632.chunk.js",
+    "index.html": "/contactbook/index.html",
+    "main.44f8b8b5.css.map": "/contactbook/static/css/main.44f8b8b5.css.map",
+    "main.5e44f22e.js.map": "/contactbook/static/js/main.5e44f22e.js.map",
+    "787.97270632.chunk.js.map": "/contactbook/static/js/787.97270632.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.5e44f22e.js"
+  ]
+}
